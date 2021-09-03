@@ -1,0 +1,14 @@
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\obj\Debug\net5.0\BaiTap.Misa.Core.csproj.AssemblyReference.cache
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\obj\Debug\net5.0\BaiTap.Misa.Core.Properties.Resources.resources
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\obj\Debug\net5.0\BaiTap.Misa.Core.csproj.GenerateResource.cache
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\obj\Debug\net5.0\BaiTap.Misa.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\obj\Debug\net5.0\BaiTap.Misa.Core.AssemblyInfoInputs.cache
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\obj\Debug\net5.0\BaiTap.Misa.Core.AssemblyInfo.cs
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\obj\Debug\net5.0\BaiTap.Misa.Core.csproj.CoreCompileInputs.cache
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\bin\Debug\net5.0\BaiTap.Misa.Core.deps.json
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\bin\Debug\net5.0\BaiTap.Misa.Core.dll
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\bin\Debug\net5.0\ref\BaiTap.Misa.Core.dll
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\bin\Debug\net5.0\BaiTap.Misa.Core.pdb
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\obj\Debug\net5.0\BaiTap.Misa.Core.dll
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\obj\Debug\net5.0\ref\BaiTap.Misa.Core.dll
+C:\Users\M'penGu\source\repos\BaiTap.MiSa\BaiTap.Misa.Core\obj\Debug\net5.0\BaiTap.Misa.Core.pdb
