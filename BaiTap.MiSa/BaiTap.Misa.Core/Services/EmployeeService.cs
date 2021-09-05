@@ -151,12 +151,12 @@ namespace BaiTap.Misa.Core.Services
                     // duyệt thông tin vào ô trong file excel
                     foreach (var employee in employees)
                     {
-                        string dob = Convert.ToDateTime(employee.DOB).ToString("dd/MM/yyyy");
+                        string dob = Convert.ToDateTime(employee.DateOfBirth).ToString("dd/MM/yyyy");
                         workSheet.Cells[row, 1].Value = count;
                         workSheet.Cells[row, 2].Value = employee.EmployeeCode;
                         workSheet.Cells[row, 3].Value = employee.FullName;
                         workSheet.Cells[row, 4].Value = employee.GenderName;
-                        workSheet.Cells[row, 5].Value = employee.DOB == null ? "" : dob;
+                        workSheet.Cells[row, 5].Value = employee.DateOfBirth == null ? "" : dob;
                         workSheet.Cells[row, 6].Value = employee.PositionName;
                         workSheet.Cells[row, 7].Value = employee.DepartmentName;
                         workSheet.Cells[row, 8].Value = employee.AccountNumber;

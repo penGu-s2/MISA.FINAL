@@ -35,7 +35,7 @@ namespace BaiTap.Misa.Core.Entities
         /// <summary>
         /// Số bản ghi trên trang hiện tại
         /// </summary>
-        /// CreatedBy : LP(27/8)
+        
         public int TotalRecordOnCurrentPage { get; set; }
 
         /// <summary>

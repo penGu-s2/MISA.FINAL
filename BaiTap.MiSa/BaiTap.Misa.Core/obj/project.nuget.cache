@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6J1gVxRnXSiCrARapRyhOos/2bsQL/0/TvKl0pR23DFomz3+zz0kttn+rYtCF7SAJKUvj2D9l/rigYILstPJpQ==",
+  "dgSpecHash": "b6InfflEk+Ql/gXbdD/HPl1ZoUyroOp0FjMx4chf/kb7CEB+FEKNWCl+EQNjOIsqfV64tzFZ79ahvvj44Yi06Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\M'penGu\\source\\repos\\BaiTap.MiSa\\BaiTap.Misa.Core\\BaiTap.Misa.Core.csproj",
+  "projectFilePath": "C:\\Users\\M'penGu\\Desktop\\MISA.FINAL\\BaiTap.MiSa\\BaiTap.Misa.Core\\BaiTap.Misa.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M'penGu\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\M'penGu\\.nuget\\packages\\epplus\\5.7.4\\epplus.5.7.4.nupkg.sha512",
